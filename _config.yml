@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Sascha Gutmann is a scientist, drug discovery enthusiast and passionate paragliding
   pilot. He regularly writes about these topics on this site.  
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://smgutmann.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  smgutmann
 linkedin_username: sascha-gutmann
 instagram_username: smgutma
