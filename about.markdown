@@ -6,7 +6,7 @@ permalink: /about/
 
 Sascha Gutmann
 
-> Drug discovery enthusiast with 12 years of experience in the pharmarceutical industry. Strong background in protein science. Team leader who loves mentoring fellow-scientists and students.
+> Drug discovery enthusiast with 12 years of experience in the pharmaceutical industry. Strong background in protein science. Team leader who loves mentoring fellow-scientists and students.
 
 # Work history
 
